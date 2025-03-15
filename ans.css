@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    text-align: center;
+}
+
+.ques{
+    padding:5%;
+    font-size: 40px;
+}
+
+.ans{
+    display: flex;
+    align-items: center;
+    height: 17vh;
+    width: 40vw;
+    background-color: rgb(45, 45, 37);
+    font-size: 30px;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+
+.cover{
+    width: 30vh;
+    height: 17vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(45, 45, 37);
+    border-radius: 20px;
+}
+.cover:hover{
+    display: none;
+}
+
+.ycover{
+    width: 30vh;
+    height: 17vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(45, 45, 37);
+    border-radius: 20px;
+}
+
+
+.area{
+    width: 7vw;
+    background-color: rgb(254, 79, 97);
+    border-radius: 10px;
+}
+
+
+.yarea{
+    width: 7vw;
+    background-color: rgb(105, 255, 88);
+    border-radius: 10px;
+}
+
